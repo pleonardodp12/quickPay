@@ -45,7 +45,7 @@ export default function Activities() {
 
         <CardFooter>
           <Details>
-            <Value>R$ 130,00</Value>
+            <Value>R$ 5590,00</Value>
 
             <Divider />
 
